@@ -2,7 +2,7 @@ import { defineComponent } from "vue";
 import "uno.css";
 
 
-import SButton from "./button"
+import SButton from "./Button/Button"
 import SFCButton from './SFCButton.vue'
 import JSXButton from './JSXButton'
 
