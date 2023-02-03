@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com//guowenqiangde/2003avercel/assets/chutou.jpg" style="width:200px;" />
+<img src="https://github.com//guowenqiangde/2003avercel/blob/main/assets/chutou.jpg" style="width:200px;" />
 </p>
 
 <h1 align="center">BW-UI</h1>
